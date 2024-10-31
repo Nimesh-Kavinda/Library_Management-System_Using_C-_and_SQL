@@ -1,5 +1,5 @@
 # Library Management System (C# & SQL Server Management)
-   This Project was done by me about a year ago.
+   This Project was done by me about a year ago.Upload to Git Hub on 2024.10.31.
 ## Overview
 
 The Library Management System is a C# application for managing books and patrons in a library. This system uses a SQL Server database to store and retrieve information. 
@@ -21,5 +21,5 @@ Please Setup your environment with above Requirements..
 1. **Clone the Repository**:
 
    ```shell
- 
+  https://github.com/Nimesh-Kavinda/Library_Management-System_Using_C-_and_SQL.git
 
